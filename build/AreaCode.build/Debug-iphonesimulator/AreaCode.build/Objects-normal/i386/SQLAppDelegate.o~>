@@ -1,0 +1,12 @@
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:13: error: no declaration of property 'window' found in the interface
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:14: error: no declaration of property 'navigationController' found in the interface
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:15: error: no declaration of property 'ac_array' found in the interface
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m: In function '-[SQLAppDelegate copyDatabaseIfNeeded]':
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:20: warning: 'SQLAppDelegate' may not respond to '-getDBPath'
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:20: warning: (Messages without a matching method signature
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:20: warning: will be assumed to return 'id' and accept
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:20: warning: '...' as arguments.)
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:29:39: error: macro "NSAssert1" requires 3 arguments, but only 2 given
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:29: error: 'NSAssert1' undeclared (first use in this function)
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:29: error: (Each undeclared identifier is reported only once
+/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m:29: error: for each function it appears in.)

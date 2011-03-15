@@ -1,0 +1,8 @@
+In file included from /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m:9:
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.h:17: error: expected specifier-qualifier-list before 'AreaCodeAppDelegate'
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m: In function '-[AreaCodeViewController viewDidLoad]':
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m:242: error: 'appDelegate' undeclared (first use in this function)
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m:242: error: (Each undeclared identifier is reported only once
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m:242: error: for each function it appears in.)
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m:242: error: 'AreaCodeAppDelegate' undeclared (first use in this function)
+/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m:242: error: expected expression before ')' token

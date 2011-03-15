@@ -1,0 +1,273 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AreaCodeAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {548, 416}}";
+			sepNavSelRange = "{166, 0}";
+			sepNavVisRange = "{0, 196}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AreaCodeAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {924, 1520}}";
+			sepNavSelRange = "{267, 0}";
+			sepNavVisRange = "{142, 207}";
+			sepNavWindowFrame = "{{15, 315}, {750, 558}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* AreaCode */ = {
+		activeExec = 0;
+		executables = (
+			EE516FEF12E2170500F30ED4 /* AreaCode */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* AreaCodeViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 592}}";
+			sepNavSelRange = "{191, 0}";
+			sepNavVisRange = "{144, 707}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* AreaCodeViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {844, 4368}}";
+			sepNavSelRange = "{6322, 0}";
+			sepNavVisRange = "{0, 620}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = EE516FEF12E2170500F30ED4 /* AreaCode */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* AreaCode */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* AreaCode */,
+		);
+		codeSenseManager = EE51700012E2170B00F30ED4 /* Code sense */;
+		executables = (
+			EE516FEF12E2170500F30ED4 /* AreaCode */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = 1;
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					366,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					326,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 321844585;
+			PBXWorkspaceStateSaveDate = 321844585;
+		};
+		perUserProjectItems = {
+			EE51715812E2414600F30ED4 /* PBXTextBookmark */ = EE51715812E2414600F30ED4 /* PBXTextBookmark */;
+			EE51715912E2414600F30ED4 /* PBXTextBookmark */ = EE51715912E2414600F30ED4 /* PBXTextBookmark */;
+			EE51715A12E2414600F30ED4 /* PBXTextBookmark */ = EE51715A12E2414600F30ED4 /* PBXTextBookmark */;
+			EE51715D12E2414600F30ED4 /* PBXTextBookmark */ = EE51715D12E2414600F30ED4 /* PBXTextBookmark */;
+			EE542AEA12E248C600C8AFD6 /* PBXTextBookmark */ = EE542AEA12E248C600C8AFD6 /* PBXTextBookmark */;
+			EEE9830C12E285C800A551B9 /* PBXTextBookmark */ = EEE9830C12E285C800A551B9 /* PBXTextBookmark */;
+			EEE9832212E2A03A00A551B9 /* PBXTextBookmark */ = EEE9832212E2A03A00A551B9 /* PBXTextBookmark */;
+			EEE9832412E2A03A00A551B9 /* PlistBookmark */ = EEE9832412E2A03A00A551B9 /* PlistBookmark */;
+			EEF818D7132EF5BF006FC783 /* PlistBookmark */ = EEF818D7132EF5BF006FC783 /* PlistBookmark */;
+		};
+		sourceControlManager = EE516FFF12E2170B00F30ED4 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	32CA4F630368D1EE00C91783 /* AreaCode_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 443}}";
+			sepNavSelRange = "{210, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	EE516FEF12E2170500F30ED4 /* AreaCode */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = AreaCode;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	EE516FFF12E2170B00F30ED4 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	EE51700012E2170B00F30ED4 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	EE51707F12E223C900F30ED4 /* AreaCodes.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {544, 431}}";
+			sepNavSelRange = "{200, 0}";
+			sepNavVisRange = "{0, 350}";
+		};
+	};
+	EE51708012E223C900F30ED4 /* AreaCodes.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 16128}}";
+			sepNavSelRange = "{16261, 0}";
+			sepNavVisRange = "{15549, 735}";
+			sepNavWindowFrame = "{{38, 294}, {750, 558}}";
+		};
+	};
+	EE51715812E2414600F30ED4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AreaCodeAppDelegate.m */;
+		name = "AreaCodeAppDelegate.m: 25";
+		rLen = 0;
+		rLoc = 536;
+		rType = 0;
+		vrLen = 1335;
+		vrLoc = 351;
+	};
+	EE51715912E2414600F30ED4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AreaCodeAppDelegate.h */;
+		name = "AreaCodeAppDelegate.h: 10";
+		rLen = 0;
+		rLoc = 166;
+		rType = 0;
+		vrLen = 477;
+		vrLoc = 0;
+	};
+	EE51715A12E2414600F30ED4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* AreaCode_Prefix.pch */;
+		name = "AreaCode_Prefix.pch: 9";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
+	};
+	EE51715D12E2414600F30ED4 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* AreaCodeViewController.m */;
+		name = "AreaCodeViewController.m: 243";
+		rLen = 0;
+		rLoc = 6322;
+		rType = 0;
+		vrLen = 620;
+		vrLoc = 0;
+	};
+	EE542AEA12E248C600C8AFD6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* AreaCodeViewController.h */;
+		name = "AreaCodeViewController.h: 11";
+		rLen = 0;
+		rLoc = 191;
+		rType = 0;
+		vrLen = 707;
+		vrLoc = 144;
+	};
+	EEE9830C12E285C800A551B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EE51707F12E223C900F30ED4 /* AreaCodes.h */;
+		name = "AreaCodes.h: 12";
+		rLen = 0;
+		rLoc = 200;
+		rType = 0;
+		vrLen = 350;
+		vrLoc = 0;
+	};
+	EEE9832212E2A03A00A551B9 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = EE51708012E223C900F30ED4 /* AreaCodes.m */;
+		name = "AreaCodes.m: 754";
+		rLen = 0;
+		rLoc = 16261;
+		rType = 0;
+		vrLen = 735;
+		vrLoc = 15549;
+	};
+	EEE9832412E2A03A00A551B9 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AreaCode-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/cameronbriar/Desktop/AreaCode/AreaCode-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	EEF818D7132EF5BF006FC783 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* AreaCode-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleIdentifier,
+		);
+		name = "/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+}

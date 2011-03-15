@@ -1,0 +1,744 @@
+TAreaCode
+v7
+r0
+t321844656.725865
+cCheck dependencies
+cProcessInfoPlistFile /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist AreaCode-Info.plist
+cCompileXIB /Users/cameronbriar/Desktop/iOS/AreaCode/MainWindow.xib
+cCompileXIB /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodeViewController.xib
+cCpResource build/Debug-iphonesimulator/AreaCode.app/globe.png globe.png
+cCpResource build/Debug-iphonesimulator/AreaCode.app/areacode.sqlite areacode.sqlite
+cCpResource build/Debug-iphonesimulator/AreaCode.app/559.jpeg 559.jpeg
+cProcessPCH /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch.gch AreaCode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o /Users/cameronbriar/Desktop/iOS/AreaCode/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode normal i386
+cGenerateDSYMFile /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+cPhaseScriptExecution "Run Script" /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh
+cTouch /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004CC12431000000000015CDB0
+t1287726129
+s1428912
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/sqlite3.h
+c000000004CC109C90000000000042B54
+t1287719369
+s273236
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/lib/libsqlite3.0.dylib
+c000000004CC109D90000000000092C20
+t1287719385
+s601120
+
+N/Users/cameronbriar/Desktop/AreaCode/ACDB.h
+c000000004D3206F300000000000001E5
+t1295124211
+s485
+i<Foundation/Foundation.h>
+i<sqlite3.h>
+
+N/Users/cameronbriar/Desktop/AreaCode/AreaCodeViewController.xib
+c000000004D31EF9E000000000000B7BB
+t1295118238
+s47035
+
+N/Users/cameronbriar/Desktop/AreaCode/AreaCode_Prefix.pch
+c000000004D3209A800000000000000DA
+t1295124904
+s218
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"AreaCodeAppDelegate.h"
+
+N/Users/cameronbriar/Desktop/AreaCode/AreaCodes.h
+c000000004D31EF3D000000000000015E
+t1295118141
+s350
+i<Foundation/Foundation.h>
+
+N/Users/cameronbriar/Desktop/AreaCode/AreaCodes.m
+c000000004D31F9D900000000000001C3
+t1295120857
+s451
+i"AreaCodes.h"
+
+N/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.h
+c000000004D3209A000000000000001DD
+t1295124896
+s477
+i<UIKit/UIKit.h>
+
+N/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.m
+c000000004D3209C50000000000000A96
+t1295124933
+s2710
+i"AreaCodeAppDelegate.h"
+i"AreaCodeViewController.h"
+
+N/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.h
+c000000004D3209A00000000000000354
+t1295124896
+s852
+i<UIKit/UIKit.h>
+i"AreaCodes.h"
+
+N/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m
+c000000004D3206F30000000000001B7F
+t1295124211
+s7039
+i"AreaCodeViewController.h"
+
+N/Users/cameronbriar/Desktop/AreaCode/MainWindow.xib
+c000000004D31DF850000000000004E35
+t1295114117
+s20021
+
+N/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.h
+c000000004D31FF7F00000000000000DD
+t1295122303
+s221
+i<Foundation/Foundation.h>
+
+N/Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m
+c000000004D31FF7F00000000000000CB
+t1295122303
+s203
+i"SQLAppDelegate.h"
+
+N/Users/cameronbriar/Desktop/AreaCode/areacode.db
+c000000004D31FD980000000000001000
+t1295121816
+s4096
+
+N/Users/cameronbriar/Desktop/AreaCode/areacode.sqlite
+c000000004D3204DE0000000000001000
+t1295123678
+s4096
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCode.LinkFileList
+c000000004D31EE8D000000000000020E
+t1295117965
+s526
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o
+t1295124933
+s52584
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o
+t1295124906
+s70536
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o
+t1295124906
+s10052
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/SQLAppDelegate.o
+t2
+s0
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o
+t1295124905
+s6300
+
+N/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+t1295124934
+s306
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM
+t1295124934
+s102
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+t1295124933
+s29748
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCodeViewController.nib
+t1295118243
+s4347
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist
+t1295115134
+s595
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/MainWindow.nib
+t1295115134
+s1125
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/PkgInfo
+t1295115134
+s8
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/areacode.db
+t2
+s0
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/areacode.sqlite
+t1295124211
+s4096
+
+N/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/globe.png
+t1295116933
+s8837
+
+N/Users/cameronbriar/Desktop/AreaCode/globe.png
+c000000004D31E9C00000000000002285
+t1295116736
+s8837
+
+N/Users/cameronbriar/Desktop/AreaCode/main.m
+c000000004D31DF850000000000000164
+t1295114117
+s356
+i<UIKit/UIKit.h>
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/../three20/src/Three20.bundle
+c000000004D7997060000000000000220
+t1299814150
+s544
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/559.jpeg
+c000000004D3267F80000000000007340
+t1295149048
+s29504
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodeViewController.xib
+c000000004D3268AD000000000000B8B8
+t1295149229
+s47288
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode_Prefix.pch
+c000000004D3209A800000000000000DA
+t1295124904
+s218
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i"AreaCodeAppDelegate.h"
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.h
+c000000004D31EF3D000000000000015E
+t1295118141
+s350
+i<Foundation/Foundation.h>
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m
+c000000004D3267510000000000003FA1
+t1295148881
+s16289
+i"AreaCodes.h"
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.h
+c000000004D3209A000000000000001DD
+t1295124896
+s477
+i<UIKit/UIKit.h>
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m
+c000000004D3209C50000000000000A96
+t1295124933
+s2710
+i"AreaCodeAppDelegate.h"
+i"AreaCodeViewController.h"
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.h
+c000000004D3209A00000000000000354
+t1295124896
+s852
+i<UIKit/UIKit.h>
+i"AreaCodes.h"
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m
+c000000004D3206F30000000000001B7F
+t1295124211
+s7039
+i"AreaCodeViewController.h"
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/MainWindow.xib
+c000000004D31DF850000000000004E35
+t1295114117
+s20021
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/areacode.sqlite
+c000000004D3204DE0000000000001000
+t1295123678
+s4096
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCode.LinkFileList
+c000000004D7EBE0A000000000000021E
+t1300151818
+s542
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o
+t1300151827
+s52592
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o
+t1300151827
+s70548
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o
+t1300151827
+s70236
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o
+t1300151827
+s6308
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh
+c000000004D7EBE0A00000000000001C8
+t1300151818
+s456
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+t1300151856
+s374
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM
+t1300151856
+s102
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/559.jpeg
+t1300151818
+s29504
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+t1300151856
+s66644
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCodeViewController.nib
+t1300151826
+s4349
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist
+t1300151818
+s629
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/MainWindow.nib
+t1295115134
+s1125
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/PkgInfo
+t1300151818
+s8
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Three20.bundle
+t1300151818
+s544
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/areacode.sqlite
+t1295124211
+s4096
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/globe.png
+t1295116933
+s8837
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/globe.png
+c000000004D31E9C00000000000002285
+t1295116736
+s8837
+
+N/Users/cameronbriar/Desktop/iOS/AreaCode/main.m
+c000000004D31DF850000000000000164
+t1295114117
+s356
+i<UIKit/UIKit.h>
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004D7EBE0A0000000000001020
+t1300151818
+s4128
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004D7EBDF50000000000041448
+t1300151797
+s267336
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004D7EBDF90000000000052D00
+t1300151801
+s339200
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004D7EBDFE0000000000127DC0
+t1300151806
+s1211840
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004D7EBE0800000000005CABC0
+t1300151816
+s6073280
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004D7EBDF8000000000004AD10
+t1300151800
+s306448
+
+N/Users/cameronbriar/Desktop/iOS/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004D7EBE00000000000008F710
+t1300151808
+s587536
+
+N/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-amkxxvsvvzknongbaecwtfavbbfk/AreaCode_Prefix.pch.gch
+t1295124621
+s15879472
+
+N/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-bwkoiviunanibthceqsdirlmnpxm/AreaCode_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch.gch
+t1295124905
+s15465712
+
+N/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch.gch
+t1300151826
+s15465712
+
+NAreaCode-Info.plist
+c000000004D32680B0000000000000395
+t1295149067
+s917
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies321844656#321844656#0(0"0(0#1#0"8620322944#0"0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316817733.654750
+e316817733.919421
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o
+x/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.m316817733#316817733#0(0"0(0#0#66"/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.m8627149408#1950"    cd /Users/cameronbriar/Desktop/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/include -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeAppDelegate.m -o /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321844627.021309
+e321844627.114655
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o
+x/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@78"Compile /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m321844627#321844627#0(0"0(0#0#70"/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m8614652640#2030"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeAppDelegate.m -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeAppDelegate.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316817705.926856
+e316817706.145856
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o
+x/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m316817705#316817706#0(0"0(0#0#69"/Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m8631151616#1956"    cd /Users/cameronbriar/Desktop/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/include -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/AreaCode/Classes/AreaCodeViewController.m -o /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321844627.097634
+e321844627.223156
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o
+x/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m321844627#321844627#0(0"0(0#0#73"/Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m8609516928#2036"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/iOS/AreaCode/Classes/AreaCodeViewController.m -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodeViewController.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o /Users/cameronbriar/Desktop/AreaCode/AreaCodes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316817705.956030
+e316817706.043508
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o
+x/Users/cameronbriar/Desktop/AreaCode/AreaCodes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/cameronbriar/Desktop/AreaCode/AreaCodes.m316817705#316817706#0(0"0(0#0#48"/Users/cameronbriar/Desktop/AreaCode/AreaCodes.m8630010272#1922"    cd /Users/cameronbriar/Desktop/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/include -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/AreaCode/AreaCodes.m -o /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321844627.114760
+e321844627.245257
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o
+x/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@60"Compile /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m321844627#321844627#0(0"0(0#0#52"/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m8623378048#2002"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodes.m -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCodes.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/SQLAppDelegate.o /Users/cameronbriar/Desktop/AreaCode/SQLAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o /Users/cameronbriar/Desktop/AreaCode/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316817705.863100
+e316817705.926755
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o
+x/Users/cameronbriar/Desktop/AreaCode/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/cameronbriar/Desktop/AreaCode/main.m316817705#316817705#0(0"0(0#0#43"/Users/cameronbriar/Desktop/AreaCode/main.m8625695136#1912"    cd /Users/cameronbriar/Desktop/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/include -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/AreaCode/main.m -o /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o0#
+
+CCompileC build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o /Users/cameronbriar/Desktop/iOS/AreaCode/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s321844627.019750
+e321844627.097533
+r1
+xCompileC
+xbuild/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o
+x/Users/cameronbriar/Desktop/iOS/AreaCode/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/cameronbriar/Desktop/iOS/AreaCode/main.m321844627#321844627#0(0"0(0#0#47"/Users/cameronbriar/Desktop/iOS/AreaCode/main.m8616506048#1992"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -include /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch -c /Users/cameronbriar/Desktop/iOS/AreaCode/main.m -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/cameronbriar/Desktop/AreaCode/AreaCodeViewController.xib
+s316811042.891819
+e316811043.558593
+r1
+xCompileXIB
+x/Users/cameronbriar/Desktop/AreaCode/AreaCodeViewController.xib
+lSLF07#2@37"CompileXIB AreaCodeViewController.xib316811042#316811043#0(0"0(0#0#63"/Users/cameronbriar/Desktop/AreaCode/AreaCodeViewController.xib8619082816#589"    cd /Users/cameronbriar/Desktop/AreaCode    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCodeViewController.nib /Users/cameronbriar/Desktop/AreaCode/AreaCodeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/cameronbriar/Desktop/AreaCode/MainWindow.xib
+s316807934.064265
+e316807934.782493
+r1
+xCompileXIB
+x/Users/cameronbriar/Desktop/AreaCode/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316807934#316807934#0(0"0(0#0#51"/Users/cameronbriar/Desktop/AreaCode/MainWindow.xib8601913568#565"    cd /Users/cameronbriar/Desktop/AreaCode    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/MainWindow.nib /Users/cameronbriar/Desktop/AreaCode/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodeViewController.xib
+s321844618.514895
+e321844626.305734
+r1
+xCompileXIB
+x/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodeViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@37"CompileXIB AreaCodeViewController.xib321844618#321844626#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#67"/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodeViewController.xib8619631712#601"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCodeViewController.nib /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCodeViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/cameronbriar/Desktop/iOS/AreaCode/MainWindow.xib
+r0
+
+CCpResource build/Debug-iphonesimulator/AreaCode.app/559.jpeg 559.jpeg
+s321844618.724555
+e321844618.772005
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AreaCode.app/559.jpeg
+x559.jpeg
+lSLF07#2@13"Copy 559.jpeg321844618#321844618#0(0"0(0#0#49"/Users/cameronbriar/Desktop/iOS/AreaCode/559.jpeg8623968928#473"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cameronbriar/Desktop/iOS/AreaCode/559.jpeg /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app0#
+
+CCpResource build/Debug-iphonesimulator/AreaCode.app/Three20.bundle ../three20/src/Three20.bundle
+s321844618.514301
+e321844618.724349
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AreaCode.app/Three20.bundle
+x../three20/src/Three20.bundle
+lSLF07#2@34"Copy ../three20/src/Three20.bundle321844618#321844618#0(0"0(0#0#70"/Users/cameronbriar/Desktop/iOS/AreaCode/../three20/src/Three20.bundle8624348224#494"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cameronbriar/Desktop/iOS/AreaCode/../three20/src/Three20.bundle /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app0#
+
+CCpResource build/Debug-iphonesimulator/AreaCode.app/areacode.db areacode.db
+r0
+
+CCpResource build/Debug-iphonesimulator/AreaCode.app/areacode.sqlite areacode.sqlite
+s316817011.394952
+e316817011.470398
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AreaCode.app/areacode.sqlite
+xareacode.sqlite
+lSLF07#2@20"Copy areacode.sqlite316817011#316817011#0(0"0(0#0#52"/Users/cameronbriar/Desktop/AreaCode/areacode.sqlite8627458432#468"    cd /Users/cameronbriar/Desktop/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cameronbriar/Desktop/AreaCode/areacode.sqlite /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app0#
+
+CCpResource build/Debug-iphonesimulator/AreaCode.app/globe.png globe.png
+s316809733.735910
+e316809733.763950
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/AreaCode.app/globe.png
+xglobe.png
+lSLF07#2@14"Copy globe.png316809733#316809733#0(0"0(0#0#46"/Users/cameronbriar/Desktop/AreaCode/globe.png8616226944#462"    cd /Users/cameronbriar/Desktop/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/cameronbriar/Desktop/AreaCode/globe.png /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app0#
+
+CGenerateDSYMFile /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+s316817733.945607
+e316817734.047420
+r1
+xGenerateDSYMFile
+x/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM
+x/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/AreaCode.app.dSYM build/Debug-iphonesimulator/AreaCode.app/AreaCode316817733#316817734#0(0"0(0#0#86"/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode8629610016#380"    cd /Users/cameronbriar/Desktop/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode -o /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM0#
+
+CGenerateDSYMFile /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+s321844656.696016
+e321844656.713457
+r1
+xGenerateDSYMFile
+x/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM
+x/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/AreaCode.app.dSYM build/Debug-iphonesimulator/AreaCode.app/AreaCode321844656#321844656#0(0"0(0#0#90"/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode8621296864#392"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app.dSYM0#
+
+CLd /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode normal i386
+s316817733.919501
+e316817733.945511
+r1
+xLd
+x/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+xnormal
+xi386
+lSLF07#2@91"Link /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode316817733#316817733#0(0"0(0#0#0"8630272768#907"    cd /Users/cameronbriar/Desktop/AreaCode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -filelist /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCode.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode0#
+
+CLd /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode normal i386
+s321844656.662319
+e321844656.695927
+r1
+xLd
+x/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode
+xnormal
+xi386
+lSLF07#2@95"Link /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode321844656#321844656#0(0"0(0#0#0"8622780672#955"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -F/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -filelist /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCode.LinkFileList -mmacosx-version-min=10.6 -ObjC -Xlinker -objc_abi_version -Xlinker 2 -framework QuartzCore -framework Foundation -framework UIKit -framework CoreGraphics -lsqlite3.0 -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/AreaCode0#
+
+CPhaseScriptExecution "Run Script" /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh
+r0
+
+CPhaseScriptExecution "Run Script" /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh
+s321844656.713556
+e321844656.723727
+r1
+xPhaseScriptExecution
+xRun Script
+x/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh
+lSLF07#2@36"Run custom shell script 'Run Script'321844656#321844656#0(0"0(0#0#0"8618096672#17424"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv ACTION build    setenv ALTERNATE_GROUP staff    setenv ALTERNATE_MODE u+w,go-w,a+rX    setenv ALTERNATE_OWNER cameronbriar    setenv ALWAYS_SEARCH_USER_PATHS NO    setenv APPLE_INTERNAL_DEVELOPER_DIR /AppleInternal/Developer    setenv APPLE_INTERNAL_DIR /AppleInternal    setenv APPLE_INTERNAL_DOCUMENTATION_DIR /AppleInternal/Documentation    setenv APPLE_INTERNAL_LIBRARY_DIR /AppleInternal/Library    setenv APPLE_INTERNAL_TOOLS /AppleInternal/Developer/Tools    setenv APPLY_RULES_IN_COPY_FILES NO    setenv ARCHS i386    setenv ARCHS_STANDARD_32_BIT i386    setenv ARCHS_UNIVERSAL_IPHONE_OS i386    setenv BUILD_COMPONENTS "headers build"    setenv BUILD_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build    setenv BUILD_ROOT /Users/cameronbriar/Desktop/iOS/AreaCode/build    setenv BUILD_STYLE Debug    setenv BUILD_VARIANTS normal    setenv BUILT_PRODUCTS_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator    setenv CACHE_ROOT /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501    setenv CCHROOT /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501    setenv CHMOD /bin/chmod    setenv CHOWN /usr/sbin/chown    setenv CLASS_FILE_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/JavaClasses    setenv CLEAN_PRECOMPS YES    setenv CLONE_HEADERS NO    setenv CODESIGNING_FOLDER_PATH /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app    setenv CODE_SIGN_CONTEXT_CLASS XCCodeSignContext    setenv COMMAND_MODE legacy    setenv COMPOSITE_SDK_DIRS /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/CompositeSDKs    setenv COMPRESS_PNG_FILES YES    setenv CONFIGURATION Debug    setenv CONFIGURATION_BUILD_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator    setenv CONFIGURATION_TEMP_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator    setenv CONTENTS_FOLDER_PATH AreaCode.app    setenv COPYING_PRESERVES_HFS_DATA NO    setenv COPY_PHASE_STRIP NO    setenv COPY_RESOURCES_FROM_STATIC_FRAMEWORKS YES    setenv CP /bin/cp    setenv CURRENT_ARCH i386    setenv CURRENT_VARIANT normal    setenv DEAD_CODE_STRIPPING NO    setenv DEBUGGING_SYMBOLS YES    setenv DEBUG_INFORMATION_FORMAT dwarf-with-dsym    setenv DEPLOYMENT_LOCATION NO    setenv DEPLOYMENT_POSTPROCESSING NO    setenv DERIVED_FILES_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources    setenv DERIVED_FILE_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources    setenv DERIVED_SOURCES_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources    setenv DEVELOPER_APPLICATIONS_DIR /Developer/Applications    setenv DEVELOPER_BIN_DIR /Developer/usr/bin    setenv DEVELOPER_DIR /Developer    setenv DEVELOPER_FRAMEWORKS_DIR /Developer/Library/Frameworks    setenv DEVELOPER_FRAMEWORKS_DIR_QUOTED "\"/Developer/Library/Frameworks\""    setenv DEVELOPER_LIBRARY_DIR /Developer/Library    setenv DEVELOPER_SDK_DIR /Developer/SDKs    setenv DEVELOPER_TOOLS_DIR /Developer/Tools    setenv DEVELOPER_USR_DIR /Developer/usr    setenv DEVELOPMENT_LANGUAGE English    setenv DOCUMENTATION_FOLDER_PATH AreaCode.app/English.lproj/Documentation    setenv DO_HEADER_SCANNING_IN_JAM NO    setenv DSTROOT /tmp/AreaCode.dst    setenv DWARF_DSYM_FILE_NAME AreaCode.app.dSYM    setenv DWARF_DSYM_FOLDER_PATH /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator    setenv EFFECTIVE_PLATFORM_NAME -iphonesimulator    setenv ENABLE_HEADER_DEPENDENCIES YES    setenv ENABLE_OPENMP_SUPPORT NO    setenv EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS ".svn .git CVS"    setenv EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES "*.nib *.lproj *.framework *.gch (*) CVS .svn .git *.xcodeproj *.xcode *.pbproj *.pbxproj"    setenv EXECUTABLES_FOLDER_PATH AreaCode.app/Executables    setenv EXECUTABLE_FOLDER_PATH AreaCode.app    setenv EXECUTABLE_NAME AreaCode    setenv EXECUTABLE_PATH AreaCode.app/AreaCode    setenv FILE_LIST /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects/LinkFileList    setenv FIXED_FILES_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/FixedFiles    setenv FRAMEWORKS_FOLDER_PATH AreaCode.app/Frameworks    setenv FRAMEWORK_FLAG_PREFIX -framework    setenv FRAMEWORK_SEARCH_PATHS "\"/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator\" "    setenv FRAMEWORK_VERSION A    setenv FULL_PRODUCT_NAME AreaCode.app    setenv GCC3_VERSION 3.3    setenv GCC_C_LANGUAGE_STANDARD c99    setenv GCC_DYNAMIC_NO_PIC NO    setenv GCC_INLINES_ARE_PRIVATE_EXTERN YES    setenv GCC_OBJC_LEGACY_DISPATCH YES    setenv GCC_OPTIMIZATION_LEVEL 0    setenv GCC_PFE_FILE_C_DIALECTS "c objective-c c++ objective-c++"    setenv GCC_PRECOMPILE_PREFIX_HEADER YES    setenv GCC_PREFIX_HEADER AreaCode_Prefix.pch    setenv GCC_SYMBOLS_PRIVATE_EXTERN YES    setenv GCC_TREAT_WARNINGS_AS_ERRORS NO    setenv GCC_VERSION 4.2    setenv GCC_VERSION_IDENTIFIER __2    setenv GCC_WARN_ABOUT_RETURN_TYPE YES    setenv GCC_WARN_UNUSED_VARIABLE YES    setenv GENERATE_MASTER_OBJECT_FILE NO    setenv GENERATE_PKGINFO_FILE YES    setenv GENERATE_PROFILING_CODE NO    setenv GID 20    setenv GROUP staff    setenv HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT YES    setenv HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES YES    setenv HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS YES    setenv HEADERMAP_INCLUDES_PROJECT_HEADERS YES    setenv HEADER_SEARCH_PATHS "\"/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/include\" ../three20/Build/Products/three20"    setenv ICONV /usr/bin/iconv    setenv INFOPLIST_EXPAND_BUILD_SETTINGS YES    setenv INFOPLIST_FILE AreaCode-Info.plist    setenv INFOPLIST_OUTPUT_FORMAT binary    setenv INFOPLIST_PATH AreaCode.app/Info.plist    setenv INFOPLIST_PREPROCESS NO    setenv INFOSTRINGS_PATH AreaCode.app/English.lproj/InfoPlist.strings    setenv INSTALL_DIR /tmp/AreaCode.dst/Users/cameronbriar/Applications    setenv INSTALL_GROUP staff    setenv INSTALL_MODE_FLAG u+w,go-w,a+rX    setenv INSTALL_OWNER cameronbriar    setenv INSTALL_PATH /Users/cameronbriar/Applications    setenv INSTALL_ROOT /tmp/AreaCode.dst    setenv IPHONEOS_DEPLOYMENT_TARGET 4.2    setenv JAVAC_DEFAULT_FLAGS "-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    setenv JAVA_APP_STUB /System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    setenv JAVA_ARCHIVE_CLASSES YES    setenv JAVA_ARCHIVE_TYPE JAR    setenv JAVA_COMPILER /usr/bin/javac    setenv JAVA_FOLDER_PATH AreaCode.app/Java    setenv JAVA_FRAMEWORK_RESOURCES_DIRS Resources    setenv JAVA_JAR_FLAGS cv    setenv JAVA_SOURCE_SUBDIR .    setenv JAVA_USE_DEPENDENCIES YES    setenv JAVA_ZIP_FLAGS -urg    setenv JIKES_DEFAULT_FLAGS "+E +OLDCSO"    setenv KEEP_PRIVATE_EXTERNS NO    setenv LD_GENERATE_MAP_FILE NO    setenv LD_MAP_FILE_PATH /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-LinkMap-normal-i386.txt    setenv LD_OPENMP_FLAGS -fopenmp    setenv LEX /Developer/usr/bin/lex    setenv LIBRARY_FLAG_NOSPACE YES    setenv LIBRARY_FLAG_PREFIX -l    setenv LIBRARY_SEARCH_PATHS "\"/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator\" "    setenv LINKER_DISPLAYS_MANGLED_NAMES NO    setenv LINK_FILE_LIST_normal_i386 /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal/i386/AreaCode.LinkFileList    setenv LINK_WITH_STANDARD_LIBRARIES YES    setenv LOCALIZED_RESOURCES_FOLDER_PATH AreaCode.app/English.lproj    setenv LOCAL_ADMIN_APPS_DIR /Applications/Utilities    setenv LOCAL_APPS_DIR /Applications    setenv LOCAL_DEVELOPER_DIR /Library/Developer    setenv LOCAL_LIBRARY_DIR /Library    setenv MACH_O_TYPE mh_execute    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv MAC_OS_X_VERSION_ACTUAL 1066    setenv MAC_OS_X_VERSION_MAJOR 1060    setenv MAC_OS_X_VERSION_MINOR 0606    setenv NATIVE_ARCH i386    setenv NATIVE_ARCH_32_BIT i386    setenv NATIVE_ARCH_64_BIT x86_64    setenv NATIVE_ARCH_ACTUAL x86_64    setenv NO_COMMON YES    setenv OBJC_ABI_VERSION 2    setenv OBJECT_FILE_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects    setenv OBJECT_FILE_DIR_normal /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Objects-normal    setenv OBJROOT /Users/cameronbriar/Desktop/iOS/AreaCode/build    setenv ONLY_ACTIVE_ARCH NO    setenv OPTIMIZATION_LEVEL 0    setenv OS MACOS    setenv OSAC /usr/bin/osacompile    setenv OTHER_LDFLAGS -ObjC    setenv PACKAGE_TYPE com.apple.package-type.wrapper.application    setenv PASCAL_STRINGS YES    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES "/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Developer/Headers /Developer/SDKs /Developer/Platforms"    setenv PBDEVELOPMENTPLIST_PATH AreaCode.app/pbdevelopment.plist    setenv PFE_FILE_C_DIALECTS objective-c    setenv PKGINFO_FILE_PATH /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/PkgInfo    setenv PKGINFO_PATH AreaCode.app/PkgInfo    setenv PLATFORM_DEVELOPER_APPLICATIONS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Applications    setenv PLATFORM_DEVELOPER_BIN_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin    setenv PLATFORM_DEVELOPER_LIBRARY_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Library    setenv PLATFORM_DEVELOPER_SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs    setenv PLATFORM_DEVELOPER_TOOLS_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/Tools    setenv PLATFORM_DEVELOPER_USR_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/usr    setenv PLATFORM_DIR /Developer/Platforms/iPhoneSimulator.platform    setenv PLATFORM_NAME iphonesimulator    setenv PLATFORM_PRODUCT_BUILD_VERSION 8C134    setenv PLATFORM_VERSION_AVAILABILITY_H_FORMAT 40200    setenv PLIST_FILE_OUTPUT_FORMAT binary    setenv PLUGINS_FOLDER_PATH AreaCode.app/PlugIns    setenv PREBINDING NO    setenv PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR YES    setenv PRECOMP_DESTINATION_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/PrefixHeaders    setenv PRESERVE_DEAD_CODE_INITS_AND_TERMS NO    setenv PRIVATE_HEADERS_FOLDER_PATH AreaCode.app/PrivateHeaders    setenv PRODUCT_NAME AreaCode    setenv PRODUCT_SETTINGS_PATH /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode-Info.plist    setenv PRODUCT_TYPE com.apple.product-type.application    setenv PROFILING_CODE NO    setenv PROJECT AreaCode    setenv PROJECT_DERIVED_FILE_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/DerivedSources    setenv PROJECT_DIR /Users/cameronbriar/Desktop/iOS/AreaCode    setenv PROJECT_FILE_PATH /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode.xcodeproj    setenv PROJECT_NAME AreaCode    setenv PROJECT_TEMP_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build    setenv PUBLIC_HEADERS_FOLDER_PATH AreaCode.app/Headers    setenv RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS YES    setenv REMOVE_CVS_FROM_RESOURCES YES    setenv REMOVE_GIT_FROM_RESOURCES YES    setenv REMOVE_SVN_FROM_RESOURCES YES    setenv REZ_COLLECTOR_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/ResourceManagerResources    setenv REZ_OBJECTS_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/ResourceManagerResources/Objects    setenv REZ_SEARCH_PATHS "\"/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator\" "    setenv RUN_CLANG_STATIC_ANALYZER NO    setenv SCAN_ALL_SOURCE_FILES_FOR_INCLUDES NO    setenv SCRIPTS_FOLDER_PATH AreaCode.app/Scripts    setenv SCRIPT_INPUT_FILE_COUNT 0    setenv SCRIPT_OUTPUT_FILE_COUNT 0    setenv SDKROOT /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_DIR /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk    setenv SDK_NAME iphonesimulator4.2    setenv SED /usr/bin/sed    setenv SEPARATE_STRIP NO    setenv SEPARATE_SYMBOL_EDIT NO    setenv SET_DIR_MODE_OWNER_GROUP YES    setenv SET_FILE_MODE_OWNER_GROUP NO    setenv SHALLOW_BUNDLE YES    setenv SHARED_DERIVED_FILE_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/DerivedSources    setenv SHARED_FRAMEWORKS_FOLDER_PATH AreaCode.app/SharedFrameworks    setenv SHARED_PRECOMPS_DIR /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders    setenv SHARED_SUPPORT_FOLDER_PATH AreaCode.app/SharedSupport    setenv SKIP_INSTALL YES    setenv SOURCE_ROOT /Users/cameronbriar/Desktop/iOS/AreaCode    setenv SRCROOT /Users/cameronbriar/Desktop/iOS/AreaCode    setenv STANDARD_C_PLUS_PLUS_LIBRARY_TYPE dynamic    setenv STRINGS_FILE_OUTPUT_ENCODING binary    setenv STRIP_INSTALLED_PRODUCT YES    setenv STRIP_STYLE all    setenv SUPPORTED_DEVICE_FAMILIES "1 2"    setenv SYMBOL_REPOSITORY_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/SymbolRepositories    setenv SYMROOT /Users/cameronbriar/Desktop/iOS/AreaCode/build    setenv SYSTEM_ADMIN_APPS_DIR /Applications/Utilities    setenv SYSTEM_APPS_DIR /Applications    setenv SYSTEM_CORE_SERVICES_DIR /System/Library/CoreServices    setenv SYSTEM_DEMOS_DIR /Applications/Extras    setenv SYSTEM_DEVELOPER_APPS_DIR /Developer/Applications    setenv SYSTEM_DEVELOPER_BIN_DIR /Developer/usr/bin    setenv SYSTEM_DEVELOPER_DEMOS_DIR "/Developer/Applications/Utilities/Built Examples"    setenv SYSTEM_DEVELOPER_DIR /Developer    setenv SYSTEM_DEVELOPER_DOC_DIR "/Developer/ADC Reference Library"    setenv SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR "/Developer/Applications/Graphics Tools"    setenv SYSTEM_DEVELOPER_JAVA_TOOLS_DIR "/Developer/Applications/Java Tools"    setenv SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR "/Developer/Applications/Performance Tools"    setenv SYSTEM_DEVELOPER_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes"    setenv SYSTEM_DEVELOPER_TOOLS /Developer/Tools    setenv SYSTEM_DEVELOPER_TOOLS_DOC_DIR "/Developer/ADC Reference Library/documentation/DeveloperTools"    setenv SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR "/Developer/ADC Reference Library/releasenotes/DeveloperTools"    setenv SYSTEM_DEVELOPER_USR_DIR /Developer/usr    setenv SYSTEM_DEVELOPER_UTILITIES_DIR /Developer/Applications/Utilities    setenv SYSTEM_DOCUMENTATION_DIR /Library/Documentation    setenv SYSTEM_LIBRARY_DIR /System/Library    setenv TARGETED_DEVICE_FAMILY 1    setenv TARGETNAME AreaCode    setenv TARGET_BUILD_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator    setenv TARGET_NAME AreaCode    setenv TARGET_TEMP_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build    setenv TEMP_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build    setenv TEMP_FILES_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build    setenv TEMP_FILE_DIR /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build    setenv TEMP_ROOT /Users/cameronbriar/Desktop/iOS/AreaCode/build    setenv UID 501    setenv UNLOCALIZED_RESOURCES_FOLDER_PATH AreaCode.app    setenv UNSTRIPPED_PRODUCT NO    setenv USER cameronbriar    setenv USER_APPS_DIR /Users/cameronbriar/Applications    setenv USER_LIBRARY_DIR /Users/cameronbriar/Library    setenv USE_DYNAMIC_NO_PIC YES    setenv USE_HEADERMAP YES    setenv USE_HEADER_SYMLINKS NO    setenv VALIDATE_PRODUCT NO    setenv VALID_ARCHS i386    setenv VERBOSE_PBXCP NO    setenv VERSIONPLIST_PATH AreaCode.app/version.plist    setenv VERSION_INFO_BUILDER cameronbriar    setenv VERSION_INFO_FILE AreaCode_vers.c    setenv VERSION_INFO_STRING "\"@(#)PROGRAM:AreaCode  PROJECT:AreaCode-\""    setenv WRAPPER_EXTENSION app    setenv WRAPPER_NAME AreaCode.app    setenv WRAPPER_SUFFIX .app    setenv XCODE_APP_SUPPORT_DIR /Developer/Library/Xcode    setenv XCODE_PRODUCT_BUILD_VERSION 10M2423    setenv XCODE_VERSION_ACTUAL 0325    setenv XCODE_VERSION_MAJOR 0300    setenv XCODE_VERSION_MINOR 0320    setenv YACC /Developer/usr/bin/yacc    setenv _REAL_SDKROOT iphoneos    /bin/sh -c /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/Script-EE542BAA12E283BC00C8AFD6.sh0#
+
+CProcessInfoPlistFile /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist AreaCode-Info.plist
+s316807934.026944
+e316807934.064190
+r1
+xProcessInfoPlistFile
+x/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist
+xAreaCode-Info.plist
+lSLF07#2@27"Process AreaCode-Info.plist316807934#316807934#0(0"0(0#0#56"/Users/cameronbriar/Desktop/AreaCode/AreaCode-Info.plist28429445101453416#476"    cd /Users/cameronbriar/Desktop/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AreaCode-Info.plist -genpkginfo /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist0#
+
+CProcessInfoPlistFile /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist AreaCode-Info.plist
+s321844618.510610
+e321844618.514238
+r1
+xProcessInfoPlistFile
+x/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist
+xAreaCode-Info.plist
+lSLF07#2@27"Process AreaCode-Info.plist321844618#321844618#0(0"0(0#0#60"/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode-Info.plist8612563392#488"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AreaCode-Info.plist -genpkginfo /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app/Info.plist0#
+
+CProcessPCH /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-amkxxvsvvzknongbaecwtfavbbfk/AreaCode_Prefix.pch.gch AreaCode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316817420.564349
+e316817421.375627
+r1
+xProcessPCH
+x/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-amkxxvsvvzknongbaecwtfavbbfk/AreaCode_Prefix.pch.gch
+xAreaCode_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile AreaCode_Prefix.pch316817420#316817421#0(0"0(0#0#56"/Users/cameronbriar/Desktop/AreaCode/AreaCode_Prefix.pch8623871744#1805"    cd /Users/cameronbriar/Desktop/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/include -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -c /Users/cameronbriar/Desktop/AreaCode/AreaCode_Prefix.pch -o /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-amkxxvsvvzknongbaecwtfavbbfk/AreaCode_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-bwkoiviunanibthceqsdirlmnpxm/AreaCode_Prefix.pch.gch AreaCode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch.gch AreaCode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316817704.999400
+e316817705.862988
+r1
+xProcessPCH
+x/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch.gch
+xAreaCode_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile AreaCode_Prefix.pch316817705#316817705#0(0"0(0#0#56"/Users/cameronbriar/Desktop/AreaCode/AreaCode_Prefix.pch8622411936#1805"    cd /Users/cameronbriar/Desktop/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/include -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -c /Users/cameronbriar/Desktop/AreaCode/AreaCode_Prefix.pch -o /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-cmgbhcfohntyhvfxvmzseeuamqyf/AreaCode_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch.gch AreaCode_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s321844626.305911
+e321844627.019618
+r1
+xProcessPCH
+x/var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch.gch
+xAreaCode_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile AreaCode_Prefix.pch321844626#321844627#0(0"0(0#0#60"/Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode_Prefix.pch8620505440#1881"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-generated-files.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-own-target-headers.hmap -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-all-target-headers.hmap -iquote /Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/AreaCode-project-headers.hmap -F/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/include -I../three20/Build/Products/three20 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources/i386 -I/Users/cameronbriar/Desktop/iOS/AreaCode/build/AreaCode.build/Debug-iphonesimulator/AreaCode.build/DerivedSources -c /Users/cameronbriar/Desktop/iOS/AreaCode/AreaCode_Prefix.pch -o /var/folders/13/13ZvK1A5Glu175IH5Swruk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AreaCode_Prefix-fcbavmilfgmzkpbkmedcysftvrot/AreaCode_Prefix.pch.gch0#
+
+CTouch /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+s316817734.047493
+e316817734.081082
+r1
+xTouch
+x/Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+lSLF07#2@83"Touch /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app316817734#316817734#0(0"0(0#0#0"8626421056#275"    cd /Users/cameronbriar/Desktop/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cameronbriar/Desktop/AreaCode/build/Debug-iphonesimulator/AreaCode.app0#
+
+CTouch /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+s321844656.723785
+e321844656.725839
+r1
+xTouch
+x/Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app
+lSLF07#2@87"Touch /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app321844656#321844656#0(0"0(0#0#0"8617811840#283"    cd /Users/cameronbriar/Desktop/iOS/AreaCode    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/cameronbriar/Desktop/iOS/AreaCode/build/Debug-iphonesimulator/AreaCode.app0#
+
